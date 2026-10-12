@@ -1,0 +1,6 @@
+{
+  "name": "WordSpeed 10 - Turnamen Ketik Cepat & Akurat MS Word",
+  "description": "Media pembelajaran interaktif Informatika Kelas 10: Turnamen Mengetik Cepat & Akurat Materi Microsoft Word per 1 Siswa Maju Bergilir dengan Papan Peringkat Live.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
